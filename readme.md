@@ -50,6 +50,7 @@ fetch("https://pomber.github.io/covid19/timeseries.json")
 - [The ultimate flutter tutorial for beginners](https://milapneupane.com.np/2020/05/01/the-ultimate-flutter-tutorial-for-beginners/): At the end of this tutorial, you will be able to develop a mobile app that fetches covid19 stats data from the server and display them in various UI widgets.
 
 #### Visualizations
+- [COVID-19 Graphs](https://web-app-covid-19.herokuapp.com/) ([repo](https://github.com/LeoCosta001/covid19-graphs)): View various graphs with Covid-19 world or regional data. Summary graphs, growth rate, days with the highest numbers of records, etc.
 - [Covid19 Visuals](https://workaholic7.github.io/covid19visuals/) ([repo](https://github.com/workaholic7/covid19visuals)): React app with Corona statistics globally and country wise.
 - [CoronaStats](https://hungry-ptolemy-f3118f.netlify.app/home) ([repo](https://github.com/trujilloRJ/coronaStats)): visualize time series per country
 - [Coronow](https://etcho.github.io/coronow) ([repo](https://github.com/etcho/coronow)): Dashboard about COVID-19 with counters and charts
